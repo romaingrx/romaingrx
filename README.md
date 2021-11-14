@@ -11,7 +11,7 @@
     <a href="https://t.me/romaingrx" target="_blank">
         <img width="50" height="50" src="https://telegram.org/img/website_icon.svg?4="/>
     </a>
-    <a href="mailto:NAME.FIRSTNAME@DOMAIN" onmouseover="this.href=this.href.replace('NAME', 'graux').replace('FIRSTNAME', 'romain').replace('DOMAIN', 'protonmail.com')">
+    <a href="https://mailto.romaingraux.xyz">
         <img height="50" src="https://icons.duckduckgo.com/ip1/protonmail.com.ico"/>
     </a>
 </div>
