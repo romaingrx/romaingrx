@@ -11,6 +11,9 @@
     <a href="https://t.me/romaingrx" target="_blank">
         <img width="50" height="50" src="https://telegram.org/img/website_icon.svg?4="/>
     </a>
+    <a href="https://tel.romaingraux.xyz" target="_blank">
+        <img height="50" src="https://icons.duckduckgo.com/ip1/signal.org.ico"/>
+    </a>
     <a href="https://mailto.romaingraux.xyz">
         <img height="50" src="https://icons.duckduckgo.com/ip1/protonmail.com.ico"/>
     </a>
